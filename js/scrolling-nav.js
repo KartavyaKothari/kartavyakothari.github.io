@@ -17,3 +17,11 @@ $(function() {
         event.preventDefault();
     });
 });
+
+$(window).on('resize', function() {
+    if($(window).width() < 753) {
+        $('nav').addClass('navCollapseColor');
+    }else{   
+        $('nav').removeClass('navCollapseColor');
+    }
+})

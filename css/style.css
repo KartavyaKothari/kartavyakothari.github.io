@@ -1829,4 +1829,9 @@ iframe {
     top: 0; 
     left: 0;
     width: 100%;
-    height: 100%;
+	height: 100%;
+}
+
+.navCollapseColor{
+	background: rgba(25, 25, 25, 0.8) !important;
+}
