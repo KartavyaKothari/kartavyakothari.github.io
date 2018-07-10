@@ -20,7 +20,7 @@ $(function() {
 
 $(window).on('load', function() {
     if($(window).width() < 753) {
-        console.log("resizing to mobile configs");git
+        console.log("resizing to mobile configs");
         $('nav').addClass('navCollapseColor');
     }else{   
         $('nav').removeClass('navCollapseColor');
