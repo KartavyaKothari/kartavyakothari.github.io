@@ -1833,5 +1833,6 @@ iframe {
 }
 
 .navCollapseColor{
-	background: rgba(25, 25, 25, 0.9) !important;
+	background: rgba(25, 25, 25, 0.99) !important;
+	padding: .3em 1em 0 !important;
 }
