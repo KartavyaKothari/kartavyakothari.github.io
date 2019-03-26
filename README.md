@@ -1,6 +1,6 @@
 # Kartavya Kothari - ​kartavyakothari.github.io
 
-Miraroad east, 401107 | 9967991482 | ​Kartavya.kothari24@gmail.com
+Miraroad east, 401107 | ​Kartavya.kothari24@gmail.com
 github.com/KartavyaKothari​ | ​linkedin.com/in/kartavyakothari/
 
 ## Objective
